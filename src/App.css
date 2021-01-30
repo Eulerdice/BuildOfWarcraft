@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.row {
+    min-height: 122px;
+}
+
+canvas { 
+    border: 1px solid black; 
+}
+
+.character_screen {
+    padding-top: 20px;
+/*     background-image: url("character_background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    max-width: 223px;
+    max-height: 307px; */
+}
+
+.row1 {
+    margin-top: 1px;
+}
